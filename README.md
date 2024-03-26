@@ -5,7 +5,7 @@ Auto trade on Backpack exchange with Javascript:
 
 
 **Note:**
-- Make sure you have more than: 10 $USDC in exchange
+- Make sure you have more than: 100 $USDC in exchange
 - Trading Pair: $WEN/$USDC
 ----------------------------
  
